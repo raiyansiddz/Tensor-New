@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /dashboard/
+Disallow: /users/
+Disallow: /blogs/new/
+Disallow: /admin/
+Disallow: /admin-panel/
+Disallow: /admin-login/
+
+# Allowing all other pages
+Allow: /
+
+# Sitemap URL
+Sitemap: https://tensordynamics.in/sitemap.xml
